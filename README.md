@@ -74,7 +74,7 @@ Este repositório demonstra:
 **Gabriel Regis Silva**  
 📍 **São Paulo, SP**  
 📧 **gabrielregis1810@gmail.com**  
-💼 **LinkedIn**:  
+💼 **LinkedIn**: www.linkedin.com/in/gabrielregis-dev
 
 **Disponível para:** Desenvolvedor Júnior | Estágio em Programação
 
